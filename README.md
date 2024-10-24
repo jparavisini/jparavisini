@@ -1,6 +1,6 @@
 ## Joe Paravisini
 
-Lead Site Reliability Engineer at [@snowplow](https://github.com/snowplow)
+Director of Engineering, SRE at [@snowplow](https://github.com/snowplow)
 
 --- 
 
