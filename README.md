@@ -69,6 +69,8 @@ $ history
  37  2024-03-01 sudo "Director of Engineering, SRE"
  38  echo "shipped infra API & UI self-service (~4k weekly ops)"
  39  echo "drove team-wide AI adoption for massively improved delivery + operations"
+ 40  2025-12-01 sudo "Director of Applied AI"
+ 41  echo "leading company-wide AI-native transformation; building unified AI os, agents, and workflows to compound Snowplow delivery"
 
 $ logout
 
