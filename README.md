@@ -10,7 +10,7 @@ Connecting to career-node-01...
  ╚════╝  ╚═════╝ ╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝
        
 $ whoami
-Director of Engineering, SRE at Snowplow (https://github.com/snowplow)
+Director of Applied AI @ Snowplow (https://github.com/snowplow)
 
 $ ls ~/tools
 Python     Kubernetes     AWS     GCP     Azure
