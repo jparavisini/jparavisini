@@ -1,6 +1,6 @@
 ```bash
 $ ssh root@joeparavisini.com
-Connecting to career-node-01...
+Connecting to professional-exp-01...
 
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║      ┏━━━━━━━━━━━┓                                                                                       ║
